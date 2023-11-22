@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">646861187719</string>
+    <string name="google_api_key" translatable="false">AIzaSyCauHBVoiF9Z2zEks2_e9lYmw3RI6GVye8</string>
+    <string name="google_app_id" translatable="false">1:646861187719:android:239386da5b2708544aa622</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCauHBVoiF9Z2zEks2_e9lYmw3RI6GVye8</string>
+    <string name="google_storage_bucket" translatable="false">fastjobs-9e6c9.appspot.com</string>
+    <string name="project_id" translatable="false">fastjobs-9e6c9</string>
+</resources>

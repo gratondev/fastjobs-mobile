@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646861187719",
+    "project_id": "fastjobs-9e6c9",
+    "storage_bucket": "fastjobs-9e6c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646861187719:android:239386da5b2708544aa622",
+        "android_client_info": {
+          "package_name": "com.fastjobs_android.br"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCauHBVoiF9Z2zEks2_e9lYmw3RI6GVye8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
